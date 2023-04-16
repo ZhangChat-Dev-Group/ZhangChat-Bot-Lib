@@ -1,5 +1,5 @@
-# ZhangChat Bot Lib 小张聊天室机器人库
-From ee To https://chat.zhangsoft.cf/
+# ZhangChat Bot Lib
+**小张聊天室机器人库** - From ee For https://chat.zhangsoft.cf/
 
 ## Update Record 更新记录
 **2023.02.28 uwu.1.00**  
